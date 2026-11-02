@@ -12,8 +12,8 @@
 3. **Case Study 3:** Student Academic Dashboard
 
 ## Repository Structure
-* `/case-study-1-portfolio` - Contains index.html and style.css for the portfolio page.
-* `college.html` - Source code for Case Study 2.
-* `dashboard.html` - Source code for Case Study 3.
-* `Consolidated-Report.pdf` - Report containing screenshots of all web pages.
+* `Case study 1 - Personal portfolio` - Contains index.html and style.css for the portfolio page.
+* `Case study 2 - College Information and Admissions Website` - Source code for Case Study 2.
+* `Case Study 3 - Student Academic Dashboard` - Source code for Case Study 3.
+* `Consolidated-Report.pdf` - Report containing screenshots of all webpages.
 
